@@ -4,7 +4,7 @@ version: 1.2.0
 homepage: https://github.com/sanifhimani/flutter_pin_code_fields
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0-44.1.beta <3.0.0"
 
 dependencies:
   flutter:
